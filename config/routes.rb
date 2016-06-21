@@ -9,6 +9,7 @@ Rails.application.routes.draw do
   get 'wlecome/home', to:'welcome#home'
   get 'welcome/about', to: 'welcome#about'
 
+
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 
